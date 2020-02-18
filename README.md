@@ -10,7 +10,7 @@
 
 ## Результаты
 
-Найдена ошибка подсчета бонусов: https://github.com/MrKarlino/Precision/issues/1
+Была найдена ошибка подсчета бонусов: https://github.com/MrKarlino/Precision/issues/1
 
 ## Общие рекомендации
 
